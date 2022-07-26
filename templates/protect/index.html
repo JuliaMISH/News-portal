@@ -1,0 +1,21 @@
+{% extends "main.html" %}
+
+{% block content %}
+{% load i18n %}
+<h2> {% trans "Authorised user's page" %} {{request.user.username}} </h2>
+<div> {% trans "Authorised user's information is diplayed here" %} </div>
+
+{% if not is_not_authors %}
+<h2>{{request.user.username}}, {% trans "you are author. Go ahead and create!" %}</h2>
+{% endif %}
+
+{% if is_not_authors %}
+<button> <a href="sign/upgrade/"> {% trans "I want to become an author!" %}</a> </button>
+{% endif %}
+
+
+
+<button> <a href="/news/"> {% trans "To the site!" %}</a> </button>
+
+<button> <a href="sign/logout/">{% trans "Quit" %}</a> </button>
+{% endblock %}

@@ -1,0 +1,362 @@
+2022-07-17 11:52:40,665 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 11:52:49,815 - INFO - basehttp - "GET / HTTP/1.1" 302 0
+2022-07-17 11:52:49,843 - INFO - basehttp - "GET /accounts/login/?next=/ HTTP/1.1" 200 1555
+2022-07-17 11:53:27,019 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:03:36,158 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:03:43,016 - INFO - basehttp - "GET / HTTP/1.1" 200 673
+2022-07-17 12:03:50,195 - INFO - basehttp - "GET /news/ HTTP/1.1" 200 5693
+2022-07-17 12:03:50,280 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:03:50,405 - WARNING - basehttp - "GET /news/assets/favicon.ico HTTP/1.1" 404 179
+2022-07-17 12:04:35,948 - INFO - basehttp - "GET /admin/ HTTP/1.1" 200 16323
+2022-07-17 12:04:52,056 - INFO - basehttp - "GET /news/ HTTP/1.1" 200 5693
+2022-07-17 12:04:52,116 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:04:53,631 - INFO - basehttp - "GET /news/search/ HTTP/1.1" 200 10915
+2022-07-17 12:04:53,714 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:04:53,836 - WARNING - basehttp - "GET /news/search/assets/favicon.ico HTTP/1.1" 404 179
+2022-07-17 12:06:34,301 - INFO - basehttp - "GET /news/subscribe/ HTTP/1.1" 200 3811
+2022-07-17 12:06:34,335 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:06:34,435 - WARNING - basehttp - "GET /news/subscribe/assets/favicon.ico HTTP/1.1" 404 179
+2022-07-17 12:06:42,969 - INFO - basehttp - "GET /news/profile/ HTTP/1.1" 200 4192
+2022-07-17 12:06:43,028 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:06:43,125 - WARNING - basehttp - "GET /news/profile/assets/favicon.ico HTTP/1.1" 404 179
+2022-07-17 12:08:48,540 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:09:01,824 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:09:15,458 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:09:44,083 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:10:03,259 - INFO - basehttp - "GET /appointments/make_appointment/ HTTP/1.1" 200 800
+2022-07-17 12:10:09,364 - INFO - basehttp - "GET /news/ HTTP/1.1" 200 5693
+2022-07-17 12:10:09,455 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:10:11,526 - INFO - basehttp - "GET /news/edit/40 HTTP/1.1" 200 4817
+2022-07-17 12:10:11,585 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:10:11,672 - WARNING - basehttp - "GET /news/edit/assets/favicon.ico HTTP/1.1" 404 179
+2022-07-17 12:10:15,844 - INFO - basehttp - "POST /news/edit/40 HTTP/1.1" 302 0
+2022-07-17 12:10:15,856 - INFO - basehttp - "GET /news/ HTTP/1.1" 200 5693
+2022-07-17 12:10:15,896 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:10:21,205 - INFO - basehttp - "GET /news/ HTTP/1.1" 200 5693
+2022-07-17 12:10:21,252 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:15:10,588 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:15:11,086 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:15:17,534 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:15:17,924 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:15:21,325 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:16:18,119 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:21:39,718 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:21:40,525 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:21:44,115 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:21:57,516 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:22:01,832 - INFO - basehttp - "GET / HTTP/1.1" 200 673
+2022-07-17 12:23:29,641 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:23:30,714 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:23:34,326 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:23:35,100 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:23:39,269 - INFO - basehttp - "GET /news/ HTTP/1.1" 200 5697
+2022-07-17 12:23:39,534 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-17 12:24:40,093 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:24:40,615 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-17 12:25:03,535 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-17 12:25:04,147 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:16:22,274 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:17:05,652 - INFO - basehttp - "GET / HTTP/1.1" 200 673
+2022-07-24 10:17:06,013 - WARNING - basehttp - "GET /favicon.ico HTTP/1.1" 404 179
+2022-07-24 10:17:11,364 - INFO - basehttp - "GET /news/ HTTP/1.1" 200 5709
+2022-07-24 10:17:11,521 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-24 10:17:11,736 - WARNING - basehttp - "GET /news/assets/favicon.ico HTTP/1.1" 404 179
+2022-07-24 10:17:24,428 - WARNING - basehttp - "GET /translate HTTP/1.1" 404 179
+2022-07-24 10:18:06,658 - INFO - basehttp - "GET /news/translate HTTP/1.1" 301 0
+2022-07-24 10:18:06,766 - INFO - basehttp - "GET /news/translate/ HTTP/1.1" 200 11
+2022-07-24 10:18:40,058 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 10:18:40,490 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:18:41,907 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 10:18:42,333 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:18:44,731 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 10:18:45,075 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:18:48,259 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 10:18:48,672 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:18:54,266 - INFO - basehttp - "GET /news/translate/ HTTP/1.1" 200 11
+2022-07-24 10:18:56,431 - INFO - basehttp - "GET /news/translate/ HTTP/1.1" 200 11
+2022-07-24 10:20:14,587 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:20:19,834 - INFO - basehttp - "GET /news/translate/ HTTP/1.1" 200 19
+2022-07-24 10:28:18,619 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:19,029 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:26,707 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:27,046 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:28,193 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:28,579 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:31,063 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:31,396 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:32,545 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:32,853 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:35,011 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:35,311 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:36,468 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:36,787 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:37,934 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:38,235 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:41,421 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:41,734 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:43,897 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:44,208 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:46,371 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:46,690 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:47,853 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:48,154 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:54,359 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:54,663 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:28:57,829 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:28:58,136 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:00,291 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:00,611 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:01,754 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:02,052 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:03,200 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:03,514 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:04,669 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:04,987 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:08,154 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:08,460 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:17,661 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:17,962 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:22,132 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:22,451 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:23,604 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:23,908 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:25,054 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:25,346 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:28,512 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:28,819 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:32,995 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:33,371 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:35,525 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:35,821 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:38,977 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:39,269 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:41,439 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:41,756 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:43,917 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:44,227 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:45,370 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:45,685 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:49,875 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:50,184 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:29:54,358 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:29:54,742 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:30:09,314 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:30:09,656 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:30:12,814 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:30:13,199 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:30:14,650 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:30:14,987 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:30:17,148 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/models.py changed, reloading.
+2022-07-24 10:30:17,541 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:32:40,823 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:32:42,743 - INFO - basehttp - "GET /admin HTTP/1.1" 301 0
+2022-07-24 10:32:43,046 - INFO - basehttp - "GET /admin/ HTTP/1.1" 200 17539
+2022-07-24 10:32:43,152 - WARNING - basehttp - "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2022-07-24 10:32:43,152 - WARNING - basehttp - "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+2022-07-24 10:32:43,153 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:32:43,165 - WARNING - basehttp - "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2022-07-24 10:32:43,364 - WARNING - basehttp - "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2022-07-24 10:33:06,828 - INFO - basehttp - "GET /admin/newapp/category/ HTTP/1.1" 200 15222
+2022-07-24 10:33:06,901 - WARNING - basehttp - "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2022-07-24 10:33:06,906 - WARNING - basehttp - "GET /static/admin/css/changelists.css HTTP/1.1" 404 179
+2022-07-24 10:33:06,916 - WARNING - basehttp - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2022-07-24 10:33:06,917 - WARNING - basehttp - "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+2022-07-24 10:33:06,930 - INFO - basehttp - "GET /admin/jsi18n/ HTTP/1.1" 200 15618
+2022-07-24 10:33:07,001 - WARNING - basehttp - "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2022-07-24 10:33:07,231 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:33:07,377 - WARNING - basehttp - "GET /static/admin/js/core.js HTTP/1.1" 404 179
+2022-07-24 10:33:07,567 - WARNING - basehttp - "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+2022-07-24 10:33:07,718 - WARNING - basehttp - "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+2022-07-24 10:33:07,841 - WARNING - basehttp - "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+2022-07-24 10:33:07,940 - WARNING - basehttp - "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+2022-07-24 10:33:08,398 - WARNING - basehttp - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2022-07-24 10:33:08,936 - WARNING - basehttp - "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2022-07-24 10:33:09,044 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:33:17,558 - INFO - basehttp - "GET /admin/newapp/category/add/ HTTP/1.1" 200 14195
+2022-07-24 10:33:17,649 - WARNING - basehttp - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2022-07-24 10:33:17,652 - WARNING - basehttp - "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+2022-07-24 10:33:17,655 - WARNING - basehttp - "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2022-07-24 10:33:17,656 - WARNING - basehttp - "GET /static/admin/css/forms.css HTTP/1.1" 404 179
+2022-07-24 10:33:17,660 - INFO - basehttp - "GET /admin/jsi18n/ HTTP/1.1" 200 15618
+2022-07-24 10:33:17,695 - WARNING - basehttp - "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2022-07-24 10:33:17,831 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:33:17,919 - WARNING - basehttp - "GET /static/admin/js/core.js HTTP/1.1" 404 179
+2022-07-24 10:33:18,038 - WARNING - basehttp - "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+2022-07-24 10:33:18,182 - WARNING - basehttp - "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+2022-07-24 10:33:18,304 - WARNING - basehttp - "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+2022-07-24 10:33:18,501 - WARNING - basehttp - "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+2022-07-24 10:33:18,664 - WARNING - basehttp - "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 404 179
+2022-07-24 10:33:18,794 - WARNING - basehttp - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2022-07-24 10:33:19,457 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:33:19,559 - WARNING - basehttp - "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2022-07-24 10:33:19,751 - WARNING - basehttp - "GET /static/admin/js/change_form.js HTTP/1.1" 404 179
+2022-07-24 10:34:09,747 - INFO - basehttp - "POST /admin/newapp/category/add/ HTTP/1.1" 302 0
+2022-07-24 10:34:09,859 - INFO - basehttp - "GET /admin/newapp/category/ HTTP/1.1" 200 15642
+2022-07-24 10:34:09,930 - WARNING - basehttp - "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2022-07-24 10:34:09,931 - WARNING - basehttp - "GET /static/admin/css/changelists.css HTTP/1.1" 404 179
+2022-07-24 10:34:09,959 - WARNING - basehttp - "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+2022-07-24 10:34:09,967 - WARNING - basehttp - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2022-07-24 10:34:09,968 - INFO - basehttp - "GET /admin/jsi18n/ HTTP/1.1" 200 15618
+2022-07-24 10:34:10,013 - WARNING - basehttp - "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2022-07-24 10:34:10,107 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:34:10,202 - WARNING - basehttp - "GET /static/admin/js/core.js HTTP/1.1" 404 179
+2022-07-24 10:34:10,286 - WARNING - basehttp - "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+2022-07-24 10:34:10,371 - WARNING - basehttp - "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+2022-07-24 10:34:10,460 - WARNING - basehttp - "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+2022-07-24 10:34:10,729 - WARNING - basehttp - "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+2022-07-24 10:34:10,827 - WARNING - basehttp - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2022-07-24 10:34:11,384 - WARNING - basehttp - "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2022-07-24 10:34:11,469 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:34:19,429 - INFO - basehttp - "GET /news HTTP/1.1" 301 0
+2022-07-24 10:34:19,590 - INFO - basehttp - "GET /news/ HTTP/1.1" 200 5709
+2022-07-24 10:34:19,730 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-24 10:34:29,272 - INFO - basehttp - "GET /news/search/ HTTP/1.1" 200 11056
+2022-07-24 10:34:29,420 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-24 10:34:29,603 - WARNING - basehttp - "GET /news/search/assets/favicon.ico HTTP/1.1" 404 179
+2022-07-24 10:34:32,821 - INFO - basehttp - "GET /news/subscribe/ HTTP/1.1" 200 3847
+2022-07-24 10:34:32,929 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-24 10:34:33,034 - WARNING - basehttp - "GET /news/subscribe/assets/favicon.ico HTTP/1.1" 404 179
+2022-07-24 10:35:26,916 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 10:35:48,326 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:35:49,698 - INFO - basehttp - "GET /news/search/ HTTP/1.1" 200 11056
+2022-07-24 10:35:49,934 - WARNING - basehttp - "GET /static/css/styles.css HTTP/1.1" 404 179
+2022-07-24 10:36:24,760 - INFO - basehttp - "GET /admin/ HTTP/1.1" 200 17558
+2022-07-24 10:36:24,845 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:36:24,849 - WARNING - basehttp - "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2022-07-24 10:36:24,852 - WARNING - basehttp - "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+2022-07-24 10:36:24,878 - WARNING - basehttp - "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2022-07-24 10:36:24,886 - WARNING - basehttp - "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2022-07-24 10:36:27,626 - INFO - basehttp - "GET /admin/newapp/category/ HTTP/1.1" 200 15431
+2022-07-24 10:36:27,699 - WARNING - basehttp - "GET /static/admin/css/changelists.css HTTP/1.1" 404 179
+2022-07-24 10:36:27,705 - WARNING - basehttp - "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2022-07-24 10:36:27,711 - WARNING - basehttp - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2022-07-24 10:36:27,712 - WARNING - basehttp - "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+2022-07-24 10:36:27,723 - INFO - basehttp - "GET /admin/jsi18n/ HTTP/1.1" 200 15618
+2022-07-24 10:36:27,825 - WARNING - basehttp - "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2022-07-24 10:36:27,954 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:36:28,078 - WARNING - basehttp - "GET /static/admin/js/core.js HTTP/1.1" 404 179
+2022-07-24 10:36:28,182 - WARNING - basehttp - "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+2022-07-24 10:36:28,362 - WARNING - basehttp - "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+2022-07-24 10:36:28,587 - WARNING - basehttp - "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+2022-07-24 10:36:28,780 - WARNING - basehttp - "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+2022-07-24 10:36:28,887 - WARNING - basehttp - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2022-07-24 10:36:29,601 - WARNING - basehttp - "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2022-07-24 10:36:29,690 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:36:31,505 - INFO - basehttp - "GET /admin/newapp/category/add/ HTTP/1.1" 200 14183
+2022-07-24 10:36:31,588 - WARNING - basehttp - "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+2022-07-24 10:36:31,591 - WARNING - basehttp - "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+2022-07-24 10:36:31,593 - WARNING - basehttp - "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2022-07-24 10:36:31,594 - WARNING - basehttp - "GET /static/admin/css/forms.css HTTP/1.1" 404 179
+2022-07-24 10:36:31,598 - INFO - basehttp - "GET /admin/jsi18n/ HTTP/1.1" 200 15618
+2022-07-24 10:36:31,897 - WARNING - basehttp - "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2022-07-24 10:36:32,002 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:36:32,127 - WARNING - basehttp - "GET /static/admin/js/core.js HTTP/1.1" 404 179
+2022-07-24 10:36:32,252 - WARNING - basehttp - "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+2022-07-24 10:36:32,458 - WARNING - basehttp - "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+2022-07-24 10:36:32,655 - WARNING - basehttp - "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+2022-07-24 10:36:32,767 - WARNING - basehttp - "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+2022-07-24 10:36:32,929 - WARNING - basehttp - "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+2022-07-24 10:36:33,024 - WARNING - basehttp - "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 404 179
+2022-07-24 10:36:33,279 - WARNING - basehttp - "GET /static/admin/js/change_form.js HTTP/1.1" 404 179
+2022-07-24 10:36:33,392 - WARNING - basehttp - "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2022-07-24 10:36:33,519 - WARNING - basehttp - "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2022-07-24 10:39:14,374 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:14,827 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:16,207 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:16,634 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:18,106 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:18,578 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:33,223 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:33,759 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:38,215 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:38,703 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:42,124 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:42,558 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:43,925 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:44,348 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:47,606 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:48,011 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:49,430 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:49,859 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:52,286 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:52,712 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:54,189 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:54,641 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:39:57,130 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:39:57,583 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:07,963 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:08,402 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:10,796 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:11,243 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:12,571 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:13,001 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:16,394 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:16,835 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:24,303 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:24,742 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:27,275 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:27,729 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:28,890 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:29,309 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:32,515 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:32,922 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:35,105 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:35,531 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:37,741 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:38,206 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:40,389 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:40,811 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:46,112 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:46,522 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:48,728 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:49,137 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:51,367 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:51,797 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:52,966 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:53,380 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:40:58,683 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:40:59,118 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:41:01,359 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:41:01,771 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:41:04,969 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:41:05,390 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:41:08,607 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:41:09,044 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 10:42:24,031 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 10:42:24,781 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:03:44,882 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/urls.py changed, reloading.
+2022-07-24 11:03:45,619 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:03:50,116 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/urls.py changed, reloading.
+2022-07-24 11:03:50,548 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:03:52,966 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/urls.py changed, reloading.
+2022-07-24 11:03:53,665 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:04:09,515 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/urls.py changed, reloading.
+2022-07-24 11:04:09,949 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:05:41,008 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 11:05:41,432 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:05:42,769 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 11:05:43,187 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:05:51,676 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 11:14:09,694 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:14:24,165 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/urls.py changed, reloading.
+2022-07-24 11:14:24,584 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:14:28,842 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/urls.py changed, reloading.
+2022-07-24 11:14:29,285 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:14:31,566 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/urls.py changed, reloading.
+2022-07-24 11:14:32,071 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:14:46,058 - WARNING - basehttp - "GET /translate HTTP/1.1" 404 179
+2022-07-24 11:14:58,541 - WARNING - basehttp - "GET /newa/translate HTTP/1.1" 404 179
+2022-07-24 11:15:04,196 - ERROR - basehttp - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:15:17,400 - ERROR - basehttp - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:16:36,108 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 11:16:36,572 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:16:40,212 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/newapp/views.py changed, reloading.
+2022-07-24 11:16:40,818 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:16:41,208 - ERROR - basehttp - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:16:42,446 - ERROR - basehttp - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:17:22,000 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 11:17:22,411 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:17:26,878 - INFO - autoreload - /home/juliamish/projects/Django — NP/project2/project2/settings.py changed, reloading.
+2022-07-24 11:17:27,291 - INFO - autoreload - Watching for file changes with StatReloader
+2022-07-24 11:17:29,729 - ERROR - basehttp - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:17:31,377 - ERROR - basehttp - "GET /news/translate/ HTTP/1.1" 500 145

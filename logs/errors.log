@@ -1,0 +1,10 @@
+2022-07-24 11:15:04,196 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:15:17,400 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:16:41,208 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:16:42,446 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:17:29,729 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:17:31,377 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/translate/ HTTP/1.1" 500 145
+2022-07-24 11:17:55,366 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/translate/ HTTP/1.1" 500 149666
+2022-07-24 11:24:18,072 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/ HTTP/1.1" 500 194309
+2022-07-24 12:14:57,677 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET / HTTP/1.1" 500 159269
+2022-07-25 18:04:13,930 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/?page=2 HTTP/1.1" 500 184014
