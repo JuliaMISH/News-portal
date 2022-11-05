@@ -8,3 +8,5 @@
 2022-07-24 11:24:18,072 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/ HTTP/1.1" 500 194309
 2022-07-24 12:14:57,677 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET / HTTP/1.1" 500 159269
 2022-07-25 18:04:13,930 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "GET /news/?page=2 HTTP/1.1" 500 184014
+2022-11-05 12:11:19,196 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "POST /news/add/ HTTP/1.1" 500 277359
+2022-11-05 12:11:25,313 - ERROR - /home/juliamish/projects/Django — NP/venv/lib/python3.8/site-packages/django/core/servers/basehttp.py - None - "POST /news/add/ HTTP/1.1" 500 277403
